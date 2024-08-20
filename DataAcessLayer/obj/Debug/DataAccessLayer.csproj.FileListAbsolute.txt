@@ -1,0 +1,20 @@
+C:\Users\Haris\Documents\semester 6\Visual Programming (3+1)\Lab\lab4&5\3TierOfficeManagementSystem\DataAcessLayer\bin\Debug\DataAcessLayer.dll
+C:\Users\Haris\Documents\semester 6\Visual Programming (3+1)\Lab\lab4&5\3TierOfficeManagementSystem\DataAcessLayer\bin\Debug\DataAcessLayer.pdb
+C:\Users\Haris\Documents\semester 6\Visual Programming (3+1)\Lab\lab4&5\3TierOfficeManagementSystem\DataAcessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Haris\Documents\semester 6\Visual Programming (3+1)\Lab\lab4&5\3TierOfficeManagementSystem\DataAcessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Haris\Documents\semester 6\Visual Programming (3+1)\Lab\lab4&5\3TierOfficeManagementSystem\DataAcessLayer\obj\Debug\DataAcessLayer.dll
+C:\Users\Haris\Documents\semester 6\Visual Programming (3+1)\Lab\lab4&5\3TierOfficeManagementSystem\DataAcessLayer\obj\Debug\DataAcessLayer.pdb
+C:\Users\Haris\Documents\semester 6\Visual Programming (3+1)\Lab\lab4&5\3TierOfficeManagementSystem\DataAcessLayer\bin\Debug\Props1.dll
+C:\Users\Haris\Documents\semester 6\Visual Programming (3+1)\Lab\lab4&5\3TierOfficeManagementSystem\DataAcessLayer\bin\Debug\Props1.pdb
+C:\Users\Haris\Documents\semester 6\Visual Programming (3+1)\Lab\lab4&5\3TierOfficeManagementSystem\DataAcessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\Haris\Documents\semester 6\Visual Programming (3+1)\Lab\Assignments\Assignment2\DataAcessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Haris\Documents\semester 6\Visual Programming (3+1)\Lab\Assignments\Assignment2\DataAcessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Haris\Desktop\mySemesterVpProject\DataAcessLayer\bin\Debug\DataAcessLayer.dll
+C:\Users\Haris\Desktop\mySemesterVpProject\DataAcessLayer\bin\Debug\DataAcessLayer.pdb
+C:\Users\Haris\Desktop\mySemesterVpProject\DataAcessLayer\bin\Debug\Props1.dll
+C:\Users\Haris\Desktop\mySemesterVpProject\DataAcessLayer\bin\Debug\Props1.pdb
+C:\Users\Haris\Desktop\mySemesterVpProject\DataAcessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Haris\Desktop\mySemesterVpProject\DataAcessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Haris\Desktop\mySemesterVpProject\DataAcessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\Haris\Desktop\mySemesterVpProject\DataAcessLayer\obj\Debug\DataAcessLayer.dll
+C:\Users\Haris\Desktop\mySemesterVpProject\DataAcessLayer\obj\Debug\DataAcessLayer.pdb

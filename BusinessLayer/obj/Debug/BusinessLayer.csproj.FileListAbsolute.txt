@@ -1,0 +1,24 @@
+C:\Users\Haris\Documents\semester 6\Visual Programming (3+1)\Lab\lab4&5\3TierOfficeManagementSystem\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Haris\Documents\semester 6\Visual Programming (3+1)\Lab\lab4&5\3TierOfficeManagementSystem\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Haris\Documents\semester 6\Visual Programming (3+1)\Lab\lab4&5\3TierOfficeManagementSystem\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\Haris\Documents\semester 6\Visual Programming (3+1)\Lab\lab4&5\3TierOfficeManagementSystem\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\Haris\Documents\semester 6\Visual Programming (3+1)\Lab\lab4&5\3TierOfficeManagementSystem\BusinessLayer\bin\Debug\DataAcessLayer.dll
+C:\Users\Haris\Documents\semester 6\Visual Programming (3+1)\Lab\lab4&5\3TierOfficeManagementSystem\BusinessLayer\bin\Debug\Props1.dll
+C:\Users\Haris\Documents\semester 6\Visual Programming (3+1)\Lab\lab4&5\3TierOfficeManagementSystem\BusinessLayer\bin\Debug\DataAcessLayer.pdb
+C:\Users\Haris\Documents\semester 6\Visual Programming (3+1)\Lab\lab4&5\3TierOfficeManagementSystem\BusinessLayer\bin\Debug\Props1.pdb
+C:\Users\Haris\Documents\semester 6\Visual Programming (3+1)\Lab\lab4&5\3TierOfficeManagementSystem\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\Haris\Documents\semester 6\Visual Programming (3+1)\Lab\lab4&5\3TierOfficeManagementSystem\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\Haris\Documents\semester 6\Visual Programming (3+1)\Lab\lab4&5\3TierOfficeManagementSystem\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\Haris\Documents\semester 6\Visual Programming (3+1)\Lab\Assignments\Assignment2\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Haris\Documents\semester 6\Visual Programming (3+1)\Lab\Assignments\Assignment2\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Haris\Desktop\mySemesterVpProject\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\Haris\Desktop\mySemesterVpProject\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\Haris\Desktop\mySemesterVpProject\BusinessLayer\bin\Debug\DataAcessLayer.dll
+C:\Users\Haris\Desktop\mySemesterVpProject\BusinessLayer\bin\Debug\Props1.dll
+C:\Users\Haris\Desktop\mySemesterVpProject\BusinessLayer\bin\Debug\DataAcessLayer.pdb
+C:\Users\Haris\Desktop\mySemesterVpProject\BusinessLayer\bin\Debug\Props1.pdb
+C:\Users\Haris\Desktop\mySemesterVpProject\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Haris\Desktop\mySemesterVpProject\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Haris\Desktop\mySemesterVpProject\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\Haris\Desktop\mySemesterVpProject\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\Haris\Desktop\mySemesterVpProject\BusinessLayer\obj\Debug\BusinessLayer.pdb

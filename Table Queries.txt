@@ -1,0 +1,10 @@
+CREATE TABLE [dbo].[Sales](
+    [sale_id] [int] IDENTITY(1,1) NOT NULL PRIMARY KEY,
+      NOT NULL,
+    [qty_to_sell] [int] NOT NULL,
+    [unit_price] [float] NOT NULL,
+    [sale_date] [datetime] NOT NULL,
+      NOT NULL,
+    FOREIGN KEY (prd_id) REFERENCES Product(prodID),
+    FOREIGN KEY (soldby_emp_id) REFERENCES Employee(emp_id)
+);
